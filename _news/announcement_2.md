@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Graduated from the MIT Operations Research Center
+date: 2019-08-07 16:11:00-0400
 inline: false
 ---
 
