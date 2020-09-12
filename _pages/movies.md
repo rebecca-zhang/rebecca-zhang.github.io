@@ -2,10 +2,12 @@
 layout: page
 permalink: /movies/
 title: movies
-description: Materials for courses you taught. Replace this text with your description.
+description: I love watching movies, and track my watched films on <a href="https://letterboxd.com/z_rebecca/films/diary/">letterboxd</a>.
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+So far this year I have watched <a href="https://letterboxd.com/z_rebecca/films/diary/for/2020/">34 films</a>.
 
-Organize your courses by years, topics, or universities, however you like!
+In 2019, I watched <a href="https://letterboxd.com/z_rebecca/films/diary/for/2019/">48 films</a>.
+
+In 2018, I watched <a href="https://letterboxd.com/z_rebecca/films/diary/for/2018/">40 films</a>.
