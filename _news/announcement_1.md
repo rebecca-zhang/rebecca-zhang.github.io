@@ -1,7 +1,8 @@
 ---
 layout: post
-date: Sept 2019
+date: Aug 2019
 inline: true
 ---
 
-Started at Google NYC as a Data Scientist on Search
+Our work is accepted and presented at JMLR's <a href="https://www.mlforhc.org/2019-conference" target="_blank">ML for Healthcare conference</a> 
+
